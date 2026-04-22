@@ -9,10 +9,16 @@ size = Vector2(73.5, 7.5)
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_m7tbw"]
 size = Vector2(166, 7.5)
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_75vob"]
+size = Vector2(167, 7.5)
+
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_qlig8"]
 size = Vector2(179, 7.5)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_rrtif"]
+size = Vector2(111.5, 7.5)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ek21e"]
 size = Vector2(111.5, 7.5)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_xrbya"]
@@ -20,6 +26,9 @@ size = Vector2(60, 7.5)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ommbi"]
 size = Vector2(56.5, 7.5)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_1g4wj"]
+size = Vector2(111.5, 7.5)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_sf0on"]
 size = Vector2(60.25, 7.5)
@@ -30,14 +39,20 @@ size = Vector2(56, 7.5)
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_iuule"]
 size = Vector2(167, 7.5)
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_5jtgv"]
+size = Vector2(167, 7.5)
+
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_eq8du"]
 size = Vector2(179, 7.5)
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_m8wxu"]
+size = Vector2(179, 7.5)
+
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_emcp4"]
-size = Vector2(1113.75, 7.5)
+size = Vector2(1129.875, 7.5)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_7cuts"]
-size = Vector2(8, 504)
+size = Vector2(8, 505)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ep5lw"]
 size = Vector2(8, 504)
@@ -48,6 +63,9 @@ size = Vector2(8, 105.5)
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_vwsrf"]
 size = Vector2(8, 206)
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_jrosl"]
+size = Vector2(8, 206)
+
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_cxgpi"]
 size = Vector2(8, 112)
 
@@ -55,6 +73,9 @@ size = Vector2(8, 112)
 size = Vector2(8, 112)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_rjysx"]
+size = Vector2(8, 112)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_y3mbs"]
 size = Vector2(8, 112)
 
 [node name="Node2D" type="Node2D" unique_id=1143085613]
@@ -76,6 +97,11 @@ position = Vector2(168, 103)
 shape = SubResource("RectangleShape2D_m7tbw")
 debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
 
+[node name="CollisionShape2D27" type="CollisionShape2D" parent="paret" unique_id=1683182260]
+position = Vector2(989.5, 103)
+shape = SubResource("RectangleShape2D_75vob")
+debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
+
 [node name="CollisionShape2D26" type="CollisionShape2D" parent="paret" unique_id=1998190944]
 position = Vector2(582.5, 103)
 shape = SubResource("RectangleShape2D_qlig8")
@@ -84,6 +110,11 @@ debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
 [node name="CollisionShape2D15" type="CollisionShape2D" parent="paret" unique_id=172501475]
 position = Vector2(194.25, 150)
 shape = SubResource("RectangleShape2D_rrtif")
+debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
+
+[node name="CollisionShape2D30" type="CollisionShape2D" parent="paret" unique_id=324930359]
+position = Vector2(1017.25, 150)
+shape = SubResource("RectangleShape2D_ek21e")
 debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
 
 [node name="CollisionShape2D21" type="CollisionShape2D" parent="paret" unique_id=87811351]
@@ -101,6 +132,11 @@ position = Vector2(194.5, 254)
 shape = SubResource("RectangleShape2D_rrtif")
 debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
 
+[node name="CollisionShape2D31" type="CollisionShape2D" parent="paret" unique_id=1418808253]
+position = Vector2(1017.5, 254)
+shape = SubResource("RectangleShape2D_1g4wj")
+debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
+
 [node name="CollisionShape2D23" type="CollisionShape2D" parent="paret" unique_id=1490862302]
 position = Vector2(523.125, 254)
 shape = SubResource("RectangleShape2D_sf0on")
@@ -116,9 +152,19 @@ position = Vector2(168.5, 301)
 shape = SubResource("RectangleShape2D_iuule")
 debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
 
+[node name="CollisionShape2D29" type="CollisionShape2D" parent="paret" unique_id=944164852]
+position = Vector2(989.5, 301)
+shape = SubResource("RectangleShape2D_5jtgv")
+debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
+
 [node name="CollisionShape2D25" type="CollisionShape2D" parent="paret" unique_id=142307576]
 position = Vector2(582.5, 301)
 shape = SubResource("RectangleShape2D_eq8du")
+debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
+
+[node name="CollisionShape2D33" type="CollisionShape2D" parent="paret" unique_id=1343796406]
+position = Vector2(372, 198)
+shape = SubResource("RectangleShape2D_m8wxu")
 debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
 
 [node name="CollisionShape2D9" type="CollisionShape2D" parent="paret" unique_id=466526263]
@@ -127,7 +173,7 @@ shape = SubResource("RectangleShape2D_emcp4")
 debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
 
 [node name="CollisionShape2D11" type="CollisionShape2D" parent="paret" unique_id=1356531272]
-position = Vector2(568, 550)
+position = Vector2(576.0625, 550)
 shape = SubResource("RectangleShape2D_emcp4")
 debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
 
@@ -137,7 +183,7 @@ shape = SubResource("RectangleShape2D_tr6oq")
 debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
 
 [node name="CollisionShape2D8" type="CollisionShape2D" parent="paret" unique_id=1645320188]
-position = Vector2(1137, 294)
+position = Vector2(1137, 294.5)
 shape = SubResource("RectangleShape2D_7cuts")
 debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
 
@@ -156,6 +202,11 @@ position = Vector2(81, 202)
 shape = SubResource("RectangleShape2D_vwsrf")
 debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
 
+[node name="CollisionShape2D28" type="CollisionShape2D" parent="paret" unique_id=769579577]
+position = Vector2(902, 202)
+shape = SubResource("RectangleShape2D_jrosl")
+debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
+
 [node name="CollisionShape2D19" type="CollisionShape2D" parent="paret" unique_id=210547396]
 position = Vector2(557, 202)
 shape = SubResource("RectangleShape2D_cxgpi")
@@ -169,6 +220,11 @@ debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
 [node name="CollisionShape2D16" type="CollisionShape2D" parent="paret" unique_id=1648132006]
 position = Vector2(135, 202)
 shape = SubResource("RectangleShape2D_rjysx")
+debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
+
+[node name="CollisionShape2D32" type="CollisionShape2D" parent="paret" unique_id=1113973529]
+position = Vector2(958, 202)
+shape = SubResource("RectangleShape2D_y3mbs")
 debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
 
 [node name="CollisionShape2D13" type="CollisionShape2D" parent="paret" unique_id=461274570]
