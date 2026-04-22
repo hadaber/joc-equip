@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://cus8v55napmv1"]
+
+[node name="Node2D" type="Node2D" unique_id=1413150704]
+
+[node name="Icon" type="Sprite2D" parent="." unique_id=929718519]
+position = Vector2(221, 351)
+
+[node name="Queso" type="Sprite2D" parent="." unique_id=93126348]
+position = Vector2(138, 611)
+scale = Vector2(0.10383386, 0.10543135)
