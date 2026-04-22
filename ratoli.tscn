@@ -7,16 +7,15 @@
 radius = 84.0
 height = 282.0
 
-[node name="Ratoli" type="Node2D" unique_id=862947667]
-
-[node name="CharacterBody2D" type="CharacterBody2D" parent="." unique_id=153136776]
+[node name="jerry ratoli" type="CharacterBody2D" unique_id=153136776]
+position = Vector2(-1, 0)
 script = ExtResource("1_q7u76")
 
-[node name="Jerry" type="Sprite2D" parent="CharacterBody2D" unique_id=2112896842]
-texture = ExtResource("2_gul4j")
-metadata/_edit_group_ = true
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D/Jerry" unique_id=324411222]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=324411222]
 position = Vector2(8, 8)
 shape = SubResource("CapsuleShape2D_i70fi")
 debug_color = Color(0.82271326, 0.40255666, 0.03656705, 0)
+
+[node name="Jerry" type="Sprite2D" parent="." unique_id=2112896842]
+texture = ExtResource("2_gul4j")
+metadata/_edit_group_ = true
