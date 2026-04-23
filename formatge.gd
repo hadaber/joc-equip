@@ -12,6 +12,6 @@ func _process(delta: float) -> void:
 
 
 func _on_body_entered(body: Node2D) -> void:
-	for formatge in get_children():
-		if formatge is ColorRect:
-			formatge.color = Color(0.933, 0.0, 0.0, 0.0)
+	print('Has agafat un formatge!')
+	queue_free()
+	
