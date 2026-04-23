@@ -3,7 +3,7 @@
 [ext_resource type="Texture2D" uid="uid://bn53bnajlsd1i" path="res://baixa.png" id="1_c7x28"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_wykdx"]
-size = Vector2(36, 36)
+size = Vector2(32, 28)
 
 [node name="Formatge" type="Area2D" unique_id=81438520]
 
