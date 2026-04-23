@@ -1,4 +1,4 @@
-extends  Sprite2D
+extends  CharacterBody2D
 
 var velocitat: Vector2 = Vector2(0, 0)
 
@@ -11,14 +11,14 @@ func _process(delta: float) -> void:
 	#temps_total += delta
 	velocitat =Vector2(0,0)
 	if Input.is_action_pressed("mou_dreta") :
-		velocitat = Vector2(100, 0)
+		velocitat = Vector2(200, 0)
 	#position += velocitat * delta
 	if Input.is_action_pressed("mou_esquerra"):
-		velocitat = Vector2(-100,0)
+		velocitat = Vector2(-200,0)
 	#position += velocitat * delta
 	if Input.is_action_pressed("mou_adalt"):
-		velocitat=Vector2(0,-100)
+		velocitat=Vector2(0,-200)
 	#position += velocitat * delta
 	if Input.is_action_pressed("mou_abaix"):
-		velocitat=Vector2(0,100)
+		velocitat=Vector2(0,200)
 	position += velocitat * delta
