@@ -11,12 +11,14 @@ height = 282.0
 script = ExtResource("1_q7u76")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=324411222]
-position = Vector2(8, 8)
+position = Vector2(4.7683716e-07, 4.7683716e-07)
 scale = Vector2(0.1, 0.1)
 shape = SubResource("CapsuleShape2D_i70fi")
 debug_color = Color(0.82271326, 0.40255666, 0.03656705, 0)
 
 [node name="Jerry" type="Sprite2D" parent="." unique_id=2112896842]
-position = Vector2(7, 6.9999995)
+position = Vector2(1.0000005, 9.536743e-07)
 scale = Vector2(0.1, 0.1)
 texture = ExtResource("2_gul4j")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1834803792]
