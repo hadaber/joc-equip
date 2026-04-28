@@ -1,5 +1,7 @@
 [gd_scene format=3 uid="uid://cep7a65cla04c"]
 
+[ext_resource type="PackedScene" uid="uid://cus8v55napmv1" path="res://formatge.tscn" id="1_tr6oq"]
+
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_wfwkq"]
 size = Vector2(251, 7.5)
 
@@ -300,3 +302,640 @@ debug_color = Color(0.011764706, 0.47843137, 0.92156863, 1)
 position = Vector2(707, 410.75)
 shape = SubResource("RectangleShape2D_jpj0s")
 debug_color = Color(0.22070512, 0.10313446, 0.75039786, 1)
+
+[node name="Formatge" parent="." unique_id=81438520 instance=ExtResource("1_tr6oq")]
+position = Vector2(172, 278)
+
+[node name="Formatge2" parent="." unique_id=1602788549 instance=ExtResource("1_tr6oq")]
+position = Vector2(106, 187)
+
+[node name="Formatge3" parent="." unique_id=32511928 instance=ExtResource("1_tr6oq")]
+position = Vector2(163, 176)
+
+[node name="Formatge4" parent="." unique_id=1777289821 instance=ExtResource("1_tr6oq")]
+position = Vector2(199, 178)
+
+[node name="Formatge7" parent="." unique_id=1007874865 instance=ExtResource("1_tr6oq")]
+position = Vector2(241, 178)
+
+[node name="Formatge113" parent="." unique_id=1771307789 instance=ExtResource("1_tr6oq")]
+position = Vector2(287, 178)
+
+[node name="Formatge114" parent="." unique_id=1376115048 instance=ExtResource("1_tr6oq")]
+position = Vector2(320, 179)
+
+[node name="Formatge115" parent="." unique_id=1146227018 instance=ExtResource("1_tr6oq")]
+position = Vector2(335, 210)
+
+[node name="Formatge116" parent="." unique_id=1335962319 instance=ExtResource("1_tr6oq")]
+position = Vector2(336, 240)
+
+[node name="Formatge117" parent="." unique_id=1762924125 instance=ExtResource("1_tr6oq")]
+position = Vector2(292, 145)
+
+[node name="Formatge118" parent="." unique_id=305875948 instance=ExtResource("1_tr6oq")]
+position = Vector2(291, 112)
+
+[node name="Formatge119" parent="." unique_id=27063391 instance=ExtResource("1_tr6oq")]
+position = Vector2(292, 81)
+
+[node name="Formatge120" parent="." unique_id=1626913206 instance=ExtResource("1_tr6oq")]
+position = Vector2(246, 78)
+
+[node name="Formatge121" parent="." unique_id=1194265545 instance=ExtResource("1_tr6oq")]
+position = Vector2(210, 76)
+
+[node name="Formatge122" parent="." unique_id=1032236215 instance=ExtResource("1_tr6oq")]
+position = Vector2(119, 74)
+
+[node name="Formatge123" parent="." unique_id=734365639 instance=ExtResource("1_tr6oq")]
+position = Vector2(82, 74)
+
+[node name="Formatge130" parent="." unique_id=1947940896 instance=ExtResource("1_tr6oq")]
+position = Vector2(44, 77)
+
+[node name="Formatge131" parent="." unique_id=1831898568 instance=ExtResource("1_tr6oq")]
+position = Vector2(45, 109)
+
+[node name="Formatge132" parent="." unique_id=1528062258 instance=ExtResource("1_tr6oq")]
+position = Vector2(42, 150)
+
+[node name="Formatge133" parent="." unique_id=1943259591 instance=ExtResource("1_tr6oq")]
+position = Vector2(40, 188)
+
+[node name="Formatge134" parent="." unique_id=559736812 instance=ExtResource("1_tr6oq")]
+position = Vector2(40, 221)
+
+[node name="Formatge135" parent="." unique_id=1878690499 instance=ExtResource("1_tr6oq")]
+position = Vector2(41, 266)
+
+[node name="Formatge136" parent="." unique_id=1113245427 instance=ExtResource("1_tr6oq")]
+position = Vector2(41, 304)
+
+[node name="Formatge137" parent="." unique_id=104836681 instance=ExtResource("1_tr6oq")]
+position = Vector2(43, 339)
+
+[node name="Formatge124" parent="." unique_id=1295558484 instance=ExtResource("1_tr6oq")]
+position = Vector2(106, 160)
+
+[node name="Formatge125" parent="." unique_id=445863150 instance=ExtResource("1_tr6oq")]
+position = Vector2(106, 128)
+
+[node name="Formatge126" parent="." unique_id=1807901785 instance=ExtResource("1_tr6oq")]
+position = Vector2(148, 126)
+
+[node name="Formatge127" parent="." unique_id=1047909724 instance=ExtResource("1_tr6oq")]
+position = Vector2(190, 127)
+
+[node name="Formatge128" parent="." unique_id=292726020 instance=ExtResource("1_tr6oq")]
+position = Vector2(226, 126.99999)
+rotation = -0.0054920316
+
+[node name="Formatge129" parent="." unique_id=999202154 instance=ExtResource("1_tr6oq")]
+position = Vector2(261, 127)
+rotation = -0.0054920316
+
+[node name="Formatge80" parent="." unique_id=2090716456 instance=ExtResource("1_tr6oq")]
+position = Vector2(396, 75)
+
+[node name="Formatge81" parent="." unique_id=1720058441 instance=ExtResource("1_tr6oq")]
+position = Vector2(386, 106)
+
+[node name="Formatge82" parent="." unique_id=127055981 instance=ExtResource("1_tr6oq")]
+position = Vector2(410, 106)
+
+[node name="Formatge83" parent="." unique_id=1395144086 instance=ExtResource("1_tr6oq")]
+position = Vector2(445, 104)
+
+[node name="Formatge86" parent="." unique_id=1789844890 instance=ExtResource("1_tr6oq")]
+position = Vector2(426, 127)
+
+[node name="Formatge87" parent="." unique_id=960764357 instance=ExtResource("1_tr6oq")]
+position = Vector2(453, 127)
+
+[node name="Formatge88" parent="." unique_id=170855674 instance=ExtResource("1_tr6oq")]
+position = Vector2(479, 124)
+
+[node name="Formatge90" parent="." unique_id=1179611758 instance=ExtResource("1_tr6oq")]
+position = Vector2(503, 123)
+
+[node name="Formatge92" parent="." unique_id=1112231243 instance=ExtResource("1_tr6oq")]
+position = Vector2(525, 134)
+
+[node name="Formatge93" parent="." unique_id=1251038805 instance=ExtResource("1_tr6oq")]
+position = Vector2(547, 133)
+
+[node name="Formatge94" parent="." unique_id=992548484 instance=ExtResource("1_tr6oq")]
+position = Vector2(568, 134)
+
+[node name="Formatge95" parent="." unique_id=1896673092 instance=ExtResource("1_tr6oq")]
+position = Vector2(589, 134)
+
+[node name="Formatge96" parent="." unique_id=1836267728 instance=ExtResource("1_tr6oq")]
+position = Vector2(609, 133)
+
+[node name="Formatge6" parent="." unique_id=336771371 instance=ExtResource("1_tr6oq")]
+position = Vector2(594, 82)
+
+[node name="Formatge58" parent="." unique_id=689353846 instance=ExtResource("1_tr6oq")]
+position = Vector2(684, 81)
+
+[node name="Formatge63" parent="." unique_id=328304004 instance=ExtResource("1_tr6oq")]
+position = Vector2(660, 81)
+rotation = 0.06071954
+
+[node name="Formatge64" parent="." unique_id=1658044039 instance=ExtResource("1_tr6oq")]
+position = Vector2(637, 80)
+rotation = 0.06071954
+
+[node name="Formatge65" parent="." unique_id=1993391651 instance=ExtResource("1_tr6oq")]
+position = Vector2(613, 80)
+rotation = -0.00314508
+
+[node name="Formatge68" parent="." unique_id=1485826563 instance=ExtResource("1_tr6oq")]
+position = Vector2(570, 83)
+rotation = -0.00314508
+
+[node name="Formatge71" parent="." unique_id=2133796378 instance=ExtResource("1_tr6oq")]
+position = Vector2(543.00006, 83.00001)
+rotation = 0.083569154
+
+[node name="Formatge73" parent="." unique_id=1054699071 instance=ExtResource("1_tr6oq")]
+position = Vector2(517, 81)
+rotation = 0.083569154
+
+[node name="Formatge75" parent="." unique_id=794509751 instance=ExtResource("1_tr6oq")]
+position = Vector2(488.00003, 82.00001)
+rotation = 0.083569154
+
+[node name="Formatge77" parent="." unique_id=1158226948 instance=ExtResource("1_tr6oq")]
+position = Vector2(455.00006, 81)
+rotation = 0.083569154
+
+[node name="Formatge79" parent="." unique_id=1603445794 instance=ExtResource("1_tr6oq")]
+position = Vector2(421, 75.00001)
+rotation = 0.083569154
+
+[node name="Formatge8" parent="." unique_id=1842060432 instance=ExtResource("1_tr6oq")]
+position = Vector2(584, 167)
+
+[node name="Formatge9" parent="." unique_id=1746682982 instance=ExtResource("1_tr6oq")]
+position = Vector2(632, 137)
+
+[node name="Formatge100" parent="." unique_id=140440631 instance=ExtResource("1_tr6oq")]
+position = Vector2(658, 136)
+
+[node name="Formatge105" parent="." unique_id=1405180511 instance=ExtResource("1_tr6oq")]
+position = Vector2(683, 171)
+
+[node name="Formatge106" parent="." unique_id=35920772 instance=ExtResource("1_tr6oq")]
+position = Vector2(657, 170)
+
+[node name="Formatge107" parent="." unique_id=560112945 instance=ExtResource("1_tr6oq")]
+position = Vector2(632, 169)
+
+[node name="Formatge10" parent="." unique_id=999282339 instance=ExtResource("1_tr6oq")]
+position = Vector2(645, 227)
+
+[node name="Formatge11" parent="." unique_id=418445989 instance=ExtResource("1_tr6oq")]
+position = Vector2(642, 279)
+
+[node name="Formatge18" parent="." unique_id=374544928 instance=ExtResource("1_tr6oq")]
+position = Vector2(667, 280)
+
+[node name="Formatge19" parent="." unique_id=295382447 instance=ExtResource("1_tr6oq")]
+position = Vector2(689, 280)
+
+[node name="Formatge20" parent="." unique_id=534799169 instance=ExtResource("1_tr6oq")]
+position = Vector2(709, 280)
+
+[node name="Formatge61" parent="." unique_id=610365430 instance=ExtResource("1_tr6oq")]
+position = Vector2(712, 300)
+
+[node name="Formatge62" parent="." unique_id=565030784 instance=ExtResource("1_tr6oq")]
+position = Vector2(712, 331)
+
+[node name="Formatge138" parent="." unique_id=1834853688 instance=ExtResource("1_tr6oq")]
+position = Vector2(755, 332)
+
+[node name="Formatge139" parent="." unique_id=186606485 instance=ExtResource("1_tr6oq")]
+position = Vector2(795, 332)
+
+[node name="Formatge140" parent="." unique_id=675797319 instance=ExtResource("1_tr6oq")]
+position = Vector2(833, 330)
+
+[node name="Formatge141" parent="." unique_id=1999481022 instance=ExtResource("1_tr6oq")]
+position = Vector2(834, 301)
+
+[node name="Formatge142" parent="." unique_id=1270156160 instance=ExtResource("1_tr6oq")]
+position = Vector2(832, 265)
+
+[node name="Formatge143" parent="." unique_id=1283478810 instance=ExtResource("1_tr6oq")]
+position = Vector2(833, 228)
+
+[node name="Formatge144" parent="." unique_id=1828137311 instance=ExtResource("1_tr6oq")]
+position = Vector2(830, 196)
+
+[node name="Formatge145" parent="." unique_id=1992263646 instance=ExtResource("1_tr6oq")]
+position = Vector2(832, 168)
+
+[node name="Formatge146" parent="." unique_id=680754110 instance=ExtResource("1_tr6oq")]
+position = Vector2(830, 141)
+
+[node name="Formatge147" parent="." unique_id=598403970 instance=ExtResource("1_tr6oq")]
+position = Vector2(831, 111)
+
+[node name="Formatge148" parent="." unique_id=1405929887 instance=ExtResource("1_tr6oq")]
+position = Vector2(831, 80)
+
+[node name="Formatge149" parent="." unique_id=1273499082 instance=ExtResource("1_tr6oq")]
+position = Vector2(870, 77)
+
+[node name="Formatge150" parent="." unique_id=291750418 instance=ExtResource("1_tr6oq")]
+position = Vector2(914, 78)
+
+[node name="Formatge151" parent="." unique_id=988754893 instance=ExtResource("1_tr6oq")]
+position = Vector2(959, 79)
+
+[node name="Formatge152" parent="." unique_id=1656445670 instance=ExtResource("1_tr6oq")]
+position = Vector2(988, 76)
+rotation = 0.056626864
+
+[node name="Formatge153" parent="." unique_id=2113510150 instance=ExtResource("1_tr6oq")]
+position = Vector2(1012.99994, 75)
+rotation = 0.056626864
+
+[node name="Formatge154" parent="." unique_id=2047738481 instance=ExtResource("1_tr6oq")]
+position = Vector2(1039, 75)
+rotation = 0.07146856
+
+[node name="Formatge155" parent="." unique_id=597209261 instance=ExtResource("1_tr6oq")]
+position = Vector2(1073, 75)
+rotation = 0.07146856
+
+[node name="Formatge156" parent="." unique_id=2005800498 instance=ExtResource("1_tr6oq")]
+position = Vector2(1059, 126)
+rotation = 0.07146856
+
+[node name="Formatge157" parent="." unique_id=677669446 instance=ExtResource("1_tr6oq")]
+position = Vector2(1020.0001, 125.99999)
+rotation = 0.07146856
+
+[node name="Formatge158" parent="." unique_id=1964906246 instance=ExtResource("1_tr6oq")]
+position = Vector2(991, 125.99999)
+rotation = 0.07146856
+
+[node name="Formatge159" parent="." unique_id=2082600121 instance=ExtResource("1_tr6oq")]
+position = Vector2(954, 125.999985)
+rotation = 0.07146856
+
+[node name="Formatge160" parent="." unique_id=351144325 instance=ExtResource("1_tr6oq")]
+position = Vector2(920.99994, 127.99999)
+rotation = 0.07146856
+
+[node name="Formatge161" parent="." unique_id=1509157211 instance=ExtResource("1_tr6oq")]
+position = Vector2(926, 156)
+rotation = 0.07146856
+
+[node name="Formatge162" parent="." unique_id=1120614709 instance=ExtResource("1_tr6oq")]
+position = Vector2(928.99994, 188.99998)
+rotation = 0.07146856
+
+[node name="Formatge163" parent="." unique_id=885024220 instance=ExtResource("1_tr6oq")]
+position = Vector2(929, 211)
+rotation = 0.009939767
+
+[node name="Formatge164" parent="." unique_id=196782824 instance=ExtResource("1_tr6oq")]
+position = Vector2(926.99994, 243.00002)
+rotation = 0.009939767
+
+[node name="Formatge165" parent="." unique_id=613142570 instance=ExtResource("1_tr6oq")]
+position = Vector2(927.00006, 264)
+rotation = 0.009939767
+
+[node name="Formatge166" parent="." unique_id=450895962 instance=ExtResource("1_tr6oq")]
+position = Vector2(927, 283)
+rotation = 0.009939767
+
+[node name="Formatge167" parent="." unique_id=791347088 instance=ExtResource("1_tr6oq")]
+position = Vector2(958, 281)
+rotation = 0.009939767
+
+[node name="Formatge168" parent="." unique_id=344640090 instance=ExtResource("1_tr6oq")]
+position = Vector2(987.99994, 281)
+rotation = 0.009939767
+
+[node name="Formatge169" parent="." unique_id=192626056 instance=ExtResource("1_tr6oq")]
+position = Vector2(1019, 278.99997)
+rotation = 0.009939767
+
+[node name="Formatge170" parent="." unique_id=996248442 instance=ExtResource("1_tr6oq")]
+position = Vector2(1054, 279)
+rotation = 0.009939767
+
+[node name="Formatge171" parent="." unique_id=1935020939 instance=ExtResource("1_tr6oq")]
+position = Vector2(1080.9999, 276.99997)
+rotation = 0.108431175
+
+[node name="Formatge172" parent="." unique_id=646400088 instance=ExtResource("1_tr6oq")]
+position = Vector2(1105.9999, 278)
+rotation = 0.108431175
+
+[node name="Formatge173" parent="." unique_id=1367848578 instance=ExtResource("1_tr6oq")]
+position = Vector2(1104, 247)
+rotation = 0.108431175
+
+[node name="Formatge174" parent="." unique_id=1585595388 instance=ExtResource("1_tr6oq")]
+position = Vector2(1105.0001, 221)
+rotation = 0.108431175
+
+[node name="Formatge175" parent="." unique_id=1736840162 instance=ExtResource("1_tr6oq")]
+position = Vector2(1106.0001, 194)
+rotation = 0.108431175
+
+[node name="Formatge176" parent="." unique_id=1371776031 instance=ExtResource("1_tr6oq")]
+position = Vector2(1104, 167)
+rotation = 0.108431175
+
+[node name="Formatge177" parent="." unique_id=1935651895 instance=ExtResource("1_tr6oq")]
+position = Vector2(1104, 139)
+rotation = 0.108431175
+
+[node name="Formatge178" parent="." unique_id=576095373 instance=ExtResource("1_tr6oq")]
+position = Vector2(1108, 105)
+rotation = 0.108431175
+
+[node name="Formatge180" parent="." unique_id=2053986957 instance=ExtResource("1_tr6oq")]
+position = Vector2(1104.0001, 309)
+rotation = 0.108431175
+
+[node name="Formatge181" parent="." unique_id=928378911 instance=ExtResource("1_tr6oq")]
+position = Vector2(1104, 329)
+rotation = 0.108431175
+
+[node name="Formatge182" parent="." unique_id=107144378 instance=ExtResource("1_tr6oq")]
+position = Vector2(1075.0001, 331)
+rotation = 0.108431175
+
+[node name="Formatge183" parent="." unique_id=1416925104 instance=ExtResource("1_tr6oq")]
+position = Vector2(1052, 330)
+rotation = 0.108431175
+
+[node name="Formatge184" parent="." unique_id=1103513771 instance=ExtResource("1_tr6oq")]
+position = Vector2(1019.9999, 329)
+rotation = 0.108431175
+
+[node name="Formatge185" parent="." unique_id=553051020 instance=ExtResource("1_tr6oq")]
+position = Vector2(985, 330)
+rotation = 0.108431175
+
+[node name="Formatge186" parent="." unique_id=1137687239 instance=ExtResource("1_tr6oq")]
+position = Vector2(956.99994, 330.00003)
+rotation = -0.022684887
+
+[node name="Formatge187" parent="." unique_id=147613180 instance=ExtResource("1_tr6oq")]
+position = Vector2(928.99994, 332)
+rotation = -0.022684887
+
+[node name="Formatge188" parent="." unique_id=851450824 instance=ExtResource("1_tr6oq")]
+position = Vector2(899.9999, 331)
+rotation = -0.022684887
+
+[node name="Formatge189" parent="." unique_id=701357086 instance=ExtResource("1_tr6oq")]
+position = Vector2(865.99994, 332.99997)
+rotation = -0.022684887
+
+[node name="Formatge179" parent="." unique_id=1918018201 instance=ExtResource("1_tr6oq")]
+position = Vector2(1106, 75)
+rotation = 0.108431175
+
+[node name="Formatge66" parent="." unique_id=1894533893 instance=ExtResource("1_tr6oq")]
+position = Vector2(672, 334)
+
+[node name="Formatge67" parent="." unique_id=391494027 instance=ExtResource("1_tr6oq")]
+position = Vector2(636, 336)
+
+[node name="Formatge69" parent="." unique_id=1854315283 instance=ExtResource("1_tr6oq")]
+position = Vector2(598, 336)
+
+[node name="Formatge70" parent="." unique_id=1861165228 instance=ExtResource("1_tr6oq")]
+position = Vector2(562, 335)
+
+[node name="Formatge72" parent="." unique_id=502175676 instance=ExtResource("1_tr6oq")]
+position = Vector2(522, 336)
+
+[node name="Formatge74" parent="." unique_id=1779019749 instance=ExtResource("1_tr6oq")]
+position = Vector2(490, 336)
+
+[node name="Formatge76" parent="." unique_id=118235617 instance=ExtResource("1_tr6oq")]
+position = Vector2(457, 310)
+
+[node name="Formatge78" parent="." unique_id=1904239102 instance=ExtResource("1_tr6oq")]
+position = Vector2(453, 339)
+
+[node name="Formatge84" parent="." unique_id=1489883268 instance=ExtResource("1_tr6oq")]
+position = Vector2(412, 340)
+
+[node name="Formatge85" parent="." unique_id=398104450 instance=ExtResource("1_tr6oq")]
+position = Vector2(365, 340)
+
+[node name="Formatge89" parent="." unique_id=1928408304 instance=ExtResource("1_tr6oq")]
+position = Vector2(315, 342)
+
+[node name="Formatge91" parent="." unique_id=844687730 instance=ExtResource("1_tr6oq")]
+position = Vector2(272.99997, 342.99997)
+rotation = 0.09306239
+
+[node name="Formatge97" parent="." unique_id=1043280185 instance=ExtResource("1_tr6oq")]
+position = Vector2(234, 343)
+rotation = 0.09306239
+
+[node name="Formatge98" parent="." unique_id=1890680941 instance=ExtResource("1_tr6oq")]
+position = Vector2(196.99998, 341)
+rotation = 0.09306239
+
+[node name="Formatge99" parent="." unique_id=1517129475 instance=ExtResource("1_tr6oq")]
+position = Vector2(152.00002, 341.00003)
+rotation = 0.09306239
+
+[node name="Formatge101" parent="." unique_id=807897669 instance=ExtResource("1_tr6oq")]
+position = Vector2(107, 342.00003)
+rotation = 0.09306239
+
+[node name="Formatge102" parent="." unique_id=2042451224 instance=ExtResource("1_tr6oq")]
+position = Vector2(284, 302.00003)
+rotation = 0.09306239
+
+[node name="Formatge103" parent="." unique_id=595057003 instance=ExtResource("1_tr6oq")]
+position = Vector2(280.00003, 271)
+rotation = 0.09306239
+
+[node name="Formatge104" parent="." unique_id=909642641 instance=ExtResource("1_tr6oq")]
+position = Vector2(276.00003, 242)
+rotation = 0.09306239
+
+[node name="Formatge108" parent="." unique_id=941108108 instance=ExtResource("1_tr6oq")]
+position = Vector2(271.00003, 221)
+rotation = 0.09306239
+
+[node name="Formatge109" parent="." unique_id=1219008234 instance=ExtResource("1_tr6oq")]
+position = Vector2(229.99997, 223)
+rotation = 0.09306239
+
+[node name="Formatge110" parent="." unique_id=321701793 instance=ExtResource("1_tr6oq")]
+position = Vector2(195, 224)
+rotation = 0.09306239
+
+[node name="Formatge111" parent="." unique_id=345776406 instance=ExtResource("1_tr6oq")]
+position = Vector2(162.00002, 224)
+rotation = 0.09306239
+
+[node name="Formatge112" parent="." unique_id=1189352075 instance=ExtResource("1_tr6oq")]
+position = Vector2(162, 197.00002)
+rotation = 0.09306239
+
+[node name="Formatge21" parent="." unique_id=431672530 instance=ExtResource("1_tr6oq")]
+position = Vector2(731, 279)
+
+[node name="Formatge22" parent="." unique_id=1624007210 instance=ExtResource("1_tr6oq")]
+position = Vector2(752, 280)
+
+[node name="Formatge23" parent="." unique_id=392432946 instance=ExtResource("1_tr6oq")]
+position = Vector2(753, 263)
+
+[node name="Formatge24" parent="." unique_id=1108565406 instance=ExtResource("1_tr6oq")]
+position = Vector2(754, 247)
+
+[node name="Formatge25" parent="." unique_id=575872795 instance=ExtResource("1_tr6oq")]
+position = Vector2(754, 228)
+
+[node name="Formatge26" parent="." unique_id=1343897035 instance=ExtResource("1_tr6oq")]
+position = Vector2(754, 209)
+
+[node name="Formatge27" parent="." unique_id=731971739 instance=ExtResource("1_tr6oq")]
+position = Vector2(753, 189)
+
+[node name="Formatge38" parent="." unique_id=1793069501 instance=ExtResource("1_tr6oq")]
+position = Vector2(708, 171)
+
+[node name="Formatge39" parent="." unique_id=536418463 instance=ExtResource("1_tr6oq")]
+position = Vector2(708, 154)
+
+[node name="Formatge40" parent="." unique_id=2051724938 instance=ExtResource("1_tr6oq")]
+position = Vector2(709, 134)
+
+[node name="Formatge41" parent="." unique_id=694954743 instance=ExtResource("1_tr6oq")]
+position = Vector2(709, 119)
+
+[node name="Formatge42" parent="." unique_id=627681469 instance=ExtResource("1_tr6oq")]
+position = Vector2(709, 119)
+rotation = 0.05052088
+
+[node name="Formatge43" parent="." unique_id=118813609 instance=ExtResource("1_tr6oq")]
+position = Vector2(709, 102)
+rotation = 0.05052088
+
+[node name="Formatge44" parent="." unique_id=1023984666 instance=ExtResource("1_tr6oq")]
+position = Vector2(710, 83)
+rotation = 0.05052088
+
+[node name="Formatge50" parent="." unique_id=1005557182 instance=ExtResource("1_tr6oq")]
+position = Vector2(729, 172)
+rotation = 0.05052088
+
+[node name="Formatge51" parent="." unique_id=1513373034 instance=ExtResource("1_tr6oq")]
+position = Vector2(752.00006, 169)
+rotation = 0.05052088
+
+[node name="Formatge32" parent="." unique_id=618950978 instance=ExtResource("1_tr6oq")]
+position = Vector2(634, 187)
+
+[node name="Formatge33" parent="." unique_id=1891146678 instance=ExtResource("1_tr6oq")]
+position = Vector2(635, 204)
+
+[node name="Formatge34" parent="." unique_id=1913769423 instance=ExtResource("1_tr6oq")]
+position = Vector2(673, 227)
+
+[node name="Formatge35" parent="." unique_id=841287810 instance=ExtResource("1_tr6oq")]
+position = Vector2(696, 227)
+
+[node name="Formatge36" parent="." unique_id=1520253402 instance=ExtResource("1_tr6oq")]
+position = Vector2(699, 248)
+
+[node name="Formatge37" parent="." unique_id=31529001 instance=ExtResource("1_tr6oq")]
+position = Vector2(698, 265)
+
+[node name="Formatge12" parent="." unique_id=1738228552 instance=ExtResource("1_tr6oq")]
+position = Vector2(522, 278)
+
+[node name="Formatge13" parent="." unique_id=2127458673 instance=ExtResource("1_tr6oq")]
+position = Vector2(526, 226)
+
+[node name="Formatge47" parent="." unique_id=1451409696 instance=ExtResource("1_tr6oq")]
+position = Vector2(495, 224)
+
+[node name="Formatge48" parent="." unique_id=675191240 instance=ExtResource("1_tr6oq")]
+position = Vector2(463, 226)
+
+[node name="Formatge49" parent="." unique_id=29731070 instance=ExtResource("1_tr6oq")]
+position = Vector2(462, 252)
+
+[node name="Formatge52" parent="." unique_id=1695688019 instance=ExtResource("1_tr6oq")]
+position = Vector2(458, 280)
+
+[node name="Formatge53" parent="." unique_id=835582905 instance=ExtResource("1_tr6oq")]
+position = Vector2(489, 278)
+
+[node name="Formatge54" parent="." unique_id=2093572348 instance=ExtResource("1_tr6oq")]
+position = Vector2(565, 279)
+
+[node name="Formatge59" parent="." unique_id=154541146 instance=ExtResource("1_tr6oq")]
+position = Vector2(592, 276)
+
+[node name="Formatge60" parent="." unique_id=1912408087 instance=ExtResource("1_tr6oq")]
+position = Vector2(619, 278)
+
+[node name="Formatge55" parent="." unique_id=1172772340 instance=ExtResource("1_tr6oq")]
+position = Vector2(584, 251)
+
+[node name="Formatge56" parent="." unique_id=2083424981 instance=ExtResource("1_tr6oq")]
+position = Vector2(582, 222)
+
+[node name="Formatge57" parent="." unique_id=1485529290 instance=ExtResource("1_tr6oq")]
+position = Vector2(586, 194)
+
+[node name="Formatge14" parent="." unique_id=767217665 instance=ExtResource("1_tr6oq")]
+position = Vector2(402, 158)
+
+[node name="Formatge28" parent="." unique_id=1065457016 instance=ExtResource("1_tr6oq")]
+position = Vector2(455, 149)
+
+[node name="Formatge29" parent="." unique_id=668069607 instance=ExtResource("1_tr6oq")]
+position = Vector2(454, 173)
+
+[node name="Formatge30" parent="." unique_id=2064296310 instance=ExtResource("1_tr6oq")]
+position = Vector2(486, 174)
+
+[node name="Formatge31" parent="." unique_id=978510184 instance=ExtResource("1_tr6oq")]
+position = Vector2(513.99994, 172)
+rotation = 0.044344183
+
+[node name="Formatge45" parent="." unique_id=152847178 instance=ExtResource("1_tr6oq")]
+position = Vector2(528, 189)
+rotation = 0.044344183
+
+[node name="Formatge46" parent="." unique_id=919565145 instance=ExtResource("1_tr6oq")]
+position = Vector2(527, 208)
+rotation = 0.044344183
+
+[node name="Formatge15" parent="." unique_id=607918422 instance=ExtResource("1_tr6oq")]
+position = Vector2(339, 270)
+
+[node name="Formatge16" parent="." unique_id=868754338 instance=ExtResource("1_tr6oq")]
+position = Vector2(343, 88)
+
+[node name="Formatge17" parent="." unique_id=1423289907 instance=ExtResource("1_tr6oq")]
+position = Vector2(170, 75)
+
+[node name="Formatge5" parent="." unique_id=612099411 instance=ExtResource("1_tr6oq")]
+position = Vector2(405, 267)

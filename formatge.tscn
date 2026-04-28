@@ -4,14 +4,16 @@
 [ext_resource type="Script" uid="uid://be8m08gpxgcnk" path="res://formatge.gd" id="1_yod28"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_wykdx"]
-size = Vector2(32, 28)
+size = Vector2(12, 9)
 
 [node name="Formatge" type="Area2D" unique_id=81438520]
 script = ExtResource("1_yod28")
 
 [node name="Icon" type="Sprite2D" parent="." unique_id=929718519]
-scale = Vector2(0.08836206, 0.08987255)
+position = Vector2(2.2516177, -1.6747164)
+scale = Vector2(0.03728389, 0.035981655)
 texture = ExtResource("1_c7x28")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=992036215]
+position = Vector2(2, -1.5)
 shape = SubResource("RectangleShape2D_wykdx")
