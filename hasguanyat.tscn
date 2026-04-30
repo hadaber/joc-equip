@@ -1,5 +1,8 @@
 [gd_scene format=3 uid="uid://ca5t5bmqriynq"]
 
+[ext_resource type="Script" uid="uid://81yhomvsc8ca" path="res://hasguanyat.gd" id="1_iqoj1"]
+[ext_resource type="Texture2D" uid="uid://d31tx8qpls4vy" path="res://win.png" id="2_pxths"]
+
 [node name="Control" type="Control" unique_id=841560212]
 layout_mode = 3
 anchors_preset = 15
@@ -7,3 +10,9 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
+script = ExtResource("1_iqoj1")
+
+[node name="Win" type="Sprite2D" parent="." unique_id=768144566]
+position = Vector2(596, 458)
+scale = Vector2(2, 2)
+texture = ExtResource("2_pxths")

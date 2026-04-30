@@ -22,3 +22,4 @@ func _process(delta: float) -> void:
 	if Input.is_action_pressed("mou_abaix"):
 		velocitat=Vector2(0,200)
 	position += velocitat * delta
+	
